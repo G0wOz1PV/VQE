@@ -1,0 +1,5 @@
+Optimizer,Final Energy,Final Error,Total Evals,Time (s),Evals to Chem. Acc.
+Velocity Verlet,-1.1059286124,4.7399e-06,6441,1.09,3543
+L-BFGS-B,-1.1046226121,1.3107e-03,4253,1.74,4253
+SLSQP,-1.1013332227,4.6001e-03,3294,1.75,N/A
+COBYLA,-0.9620675939,1.4387e-01,156,3.49,N/A
